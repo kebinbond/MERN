@@ -1,0 +1,34 @@
+VPS
+
+RDP and Windows Login Info:
+IP: 194.87.199.129:3306 
+User: admin
+Password:c224RDnPQJKQ
+
+Anydesk:
+ID: 108669788
+Password: Trustvs.com
+
+VNC:
+IP: 194.87.199.4:5909
+Password: 4025A2EB
+
+VNC - it is directly connection to VPS. If neither Teamviewer nor Anydesk don't work, you can connect via VNC - VNC always works!
+For connect via VNC use "VNC Viewer"
+
+Your payment day is 12 MAY.
+
+If you do not want to lose access to VPS I recommend RENEW your VPS in advance -  ideally 3-4 days before the expiry date.
+The fastest RENEW way - Personal Account on the site: https://trustvs.com/dashboard
+Make sure that you see your vps in the account.
+
+Also, change at least main user password! -> It is IMPORTANT!!!  or you can be easy hacked and your VPS will be blocked!
+
+Thank you for your order!
+
+
+
+
+freelancer:375206785 Qw121314
+	  :id: 
+mailto:fracexaled1972@rambler.ru Napad123456
